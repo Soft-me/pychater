@@ -3,4 +3,4 @@
 a Chat App in Python based on socketserver framework.
 
 # Screenshot
-！[screenshot](Pychater/pics/01.png)
+![screenshot](https://github.com/Soft-me/Pychater/blob/master/pics/01.png)
